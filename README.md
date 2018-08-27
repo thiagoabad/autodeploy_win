@@ -22,9 +22,9 @@ Foi pensado principalmente para uma equipe de desenvolvimento Python que queria 
 Não sabe fazê-lo? Siga esse passos:
 https://www.blotdesign.com/article-detail.php?page=109
 
-2. Baixe os executáveis desse projeto em uma pasta, juntos.
+2. Baixe os arquivos .ini e .exe desse projeto em uma pasta, juntos.
 3. Edite o autodeploy.ini de modo a aceitar seu ambiente.
-4. Execute o autodeploy.ini
+4. Execute o autodeploy.exe
 
 # Dicas:
 1. Funciona em mais de uma instância ao mesmo tempo, apenas crie pastas separadas com executáveis separados.
